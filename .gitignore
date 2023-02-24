@@ -1,0 +1,56 @@
+# .NET Core
+project.lock.json
+*.nuget.props
+*.nuget.targets
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+bin/
+obj/
+
+# Visual Studio files
+*.user
+*.suo
+*.sln.docstates
+*.dll.refresh
+*.cachedrunsettings
+*.vc.db
+*.sln.ide
+*.dbmdl
+*.ipch/
+*.pdb
+*.ipdb
+*.obj
+*.exe
+*.ilk
+*.tlog/
+
+# Visual Studio code coverage results
+*.coverage
+.coverage
+
+# StyleCop
+StyleCop.Cache
+
+# Files built by Visual Studio
+[Dd]esign/
+Generated_Code/
+
+# NuGet
+packages/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject file
+docproj.*
